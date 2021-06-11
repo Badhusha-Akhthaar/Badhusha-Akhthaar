@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Java,Spring-Boot,SAP-UI5
-- 🌱 I’m currently learning Spring-Boot,Angular,Flutter
+- 🔭 I’m currently working on Java, Spring-Boot, SAP-UI5
+- 🌱 I’m currently learning Spring-Boot, Angular, Flutter
 - 👯 I’m looking to collaborate on Spring-Boot & Angular related apps
 - 🤔 I’m looking for help with creating a Angular App
 <!-- - 💬 Ask me about ... -->
